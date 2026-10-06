@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+*.egg
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local reports & temp outputs
+report/
+pipeline_report/
+examples/report_demo/
+examples/cleaned_sample.csv
+examples/pipeline_output.csv
+*.png
+*.parquet
+
+# IDEs
+.vscode/
+.idea/
+*.swp
