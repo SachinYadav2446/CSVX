@@ -19,8 +19,8 @@ ENV/
 htmlcov/
 
 # Local reports & temp outputs
-report/
-pipeline_report/
+/report/
+/pipeline_report/
 examples/report_demo/
 examples/cleaned_sample.csv
 examples/pipeline_output.csv
