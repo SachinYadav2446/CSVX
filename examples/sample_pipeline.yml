@@ -1,0 +1,14 @@
+pipeline:
+  - inspect
+  - quality
+  - describe
+  - detect_outliers:
+      method: iqr
+  - correlation:
+      strong: true
+  - remove_duplicates
+  - fill_missing:
+      method: median
+  - normalize_columns
+  - report:
+      output_dir: pipeline_report

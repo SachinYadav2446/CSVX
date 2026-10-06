@@ -1,0 +1,15 @@
+customer_id,age,salary,city,department,experience_years,purchased,email
+101,25,50000,New York,Engineering,2,Yes,john.doe@example.com
+102,30,65000,London,Marketing,5,No,jane.smith@example.com
+103,45,120000,New York,Engineering,15,Yes,alice.wonder@example.com
+104,22,42000,paris,Sales,1,No,bob.martin@example.com
+105,38,95000,London,Engineering,10,Yes,charlie.brown@example.com
+106,29,58000,New York,Sales,4,No,diana.prince@example.com
+107,,72000,Paris,Marketing,6,Yes,evan.wright@example.com
+108,52,145000,New York,Engineering,22,Yes,fiona.gallagher@example.com
+109,33,,London,Sales,7,No,george.clark@example.com
+110,41,105000,Paris,Engineering,12,Yes,hannah.abbott@example.com
+111,26,48000,New York,Marketing,3,No,ian.malcolm@example.com
+112,60,350000,London,Engineering,30,Yes,julia.roberts@example.com
+101,25,50000,New York,Engineering,2,Yes,john.doe@example.com
+105,38,95000,London,Engineering,10,Yes,charlie.brown@example.com
